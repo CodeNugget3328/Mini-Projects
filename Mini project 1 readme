@@ -1,0 +1,30 @@
+# Guess the Number Game
+
+## Introduction
+This simple command-line game challenges players to guess a randomly selected number within a given range. The game provides feedback on whether the guess is too high or too low, helping players refine their guesses. It's a great project to understand basic programming concepts like loops, conditionals, and user input handling in Python.
+
+## Features
+- **Interactive Gameplay:** Players guess numbers and receive immediate feedback.
+- **Attempt Counting:** The game counts the number of guesses, improving user engagement.
+- **Play Again Feature:** After a game ends, players can choose to play another round without restarting the program.
+
+## How to Play
+1. Start the game by running the Python script.
+2. The game will prompt you to guess a number between 1 and 10.
+3. Enter your guess in the console.
+4. Receive feedback if your guess is too high, too low, or correct.
+5. If not guessed correctly in three tries, the game reveals the number and offers a chance to play again.
+
+## Setup Instructions
+To get the game running on your local machine, follow these simple steps:
+
+### Prerequisites
+- Ensure you have Python installed on your system. Python 3.8 or higher is recommended. You can download it from [python.org](https://www.python.org/downloads/).
+
+### Running the Game
+1. Download the `guess_the_number.py` file from this repository.
+2. Open your command line interface (CLI).
+3. Navigate to the directory containing the downloaded file.
+4. Run the following command:
+   ```bash
+   python guess_the_number.py
